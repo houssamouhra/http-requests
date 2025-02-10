@@ -1,7 +1,5 @@
 # Send POST and GET requests in Vue using Axios with Firebase.
 
-## Make POST and GET HTTP requests in Vue using Axios with Firebase as a real-time database.
-
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
