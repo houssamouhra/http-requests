@@ -1,4 +1,4 @@
-# .
+# Send HTTP requests with Vue + Firebase for real-time database.
 
 This template should help get you started developing with Vue 3 in Vite.
 
