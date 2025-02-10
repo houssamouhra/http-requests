@@ -1,4 +1,4 @@
-# Send HTTP requests with Vue + Firebase for real-time database.
+# Make POST and GET HTTP requests in Vue using Axios with Firebase as a real-time database.
 
 This template should help get you started developing with Vue 3 in Vite.
 
